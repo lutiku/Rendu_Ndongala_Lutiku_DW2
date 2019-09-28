@@ -1,0 +1,12 @@
+{
+    "name": "glrd/rendu-a2-php",
+    "authors": [
+        {
+            "name": "glrd",
+            "email": "glrd.remi@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
